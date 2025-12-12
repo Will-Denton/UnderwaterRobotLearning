@@ -1,0 +1,35 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Rider / VS / other IDEs
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.venv
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Unity Addressables / StreamingAssets variants (optional)
+# [Aa]ssets/StreamingAssets/aa/
+
+# IL2CPP / Gradle (Android)
+.gradle/
+**/Android/
